@@ -1,5 +1,7 @@
   # MEU-PRIMEIRO-PROJETO 
 
-* Funcionalidade 1
-* Funcionalidade 2
-* Funcionalidade 3
+* Funcionalidades 1
+* Funcionalidades 2
+* Funcionalidades 3 
+* Funcionalidades 4
+* Funcionalidades 5
